@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class MyController {
 	
-	// comment 1
+	// comment    232
 	
 	@RequestMapping("/test")
 	public String test() {
